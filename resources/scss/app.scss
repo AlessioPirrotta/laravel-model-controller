@@ -12,8 +12,17 @@ html {
     font-family: sans-serif;
 }
 
+body{
+    background-color: grey
+}
+
 img {
     width: 100%;
     display: block;
+}
+
+#card{
+    width: calc(100% / 5 - 20px);
+    height: 200px;
 }
 
